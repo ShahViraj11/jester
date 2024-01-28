@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022471118961",
+    "project_id": "jester-c49tax",
+    "storage_bucket": "jester-c49tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022471118961:android:f710182cadee46ad297bd0",
+        "android_client_info": {
+          "package_name": "com.swiftmedia.jester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUD4yhuze5MX7riI234WeY_pw58bSnx5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
